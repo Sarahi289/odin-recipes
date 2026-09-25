@@ -17,3 +17,7 @@
 # Foodiesfeed Learn More
 # Credit: Foodiesfeed
 # Creator: Foodiesfeed
+#
+# credit for banana nut bread image:
+# Get this image at Flickr, Licensing details
+# Creator: Claire Sutton
