@@ -21,3 +21,10 @@
 # credit for banana nut bread image:
 # Get this image at Flickr, Licensing details
 # Creator: Claire Sutton
+# made a folder for external css
+# just styled title page using class, id & # type selectors
+# also discovered how to unlist the 
+# <ol> 
+# (list-style-type:none)
+
+
