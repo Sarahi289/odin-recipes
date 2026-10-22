@@ -1,0 +1,40 @@
+body
+ {background:rgba(80, 54, 16, 0.542);
+    font-family: Helvetica, Sans-Serif, Arial;
+} 
+
+
+ .header 
+ {Background-color: rgb(169, 169, 14);
+display:block;
+font-size: 20px;
+color: white;
+text-align:center;
+padding: 10px;
+} 
+
+.Rlist
+{Font-size:24px;
+Font-weight: bold;
+text-align:center;
+color:rgb(0, 0, 0);
+margin-right:30px;}
+
+ ol {display:block;
+list-style-type:none}
+
+#R1
+{padding: 35px;
+border: 10px solid white;
+margin:10px auto;
+}
+
+#R2
+{padding: 15px;
+border: 10px solid white;
+margin:auto;}
+
+#R3 
+{padding: 15px;
+border: 10px solid white;
+margin:10px auto;}
