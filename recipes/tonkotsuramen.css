@@ -1,0 +1,39 @@
+body
+{font-family:Arial, Verdana, Geneva, Tahoma, sans-serif;
+background-color:rgb(193, 193, 103);}
+
+.title
+{font-size: 50px;
+font-weight:bold;
+text-align:center;
+color: white;
+background-color: rgb(128, 128, 9);
+padding:5px;
+border: 5px solid white;
+margin-left:30px;
+width:fit-content;
+}
+
+#source
+{font-size: 10px;
+text-align:center;
+color:white;}
+
+.image-container
+{margin-left:350px;}
+
+button 
+{background-color:whitesmoke;
+border: 2px solid white;
+width:100px;height:30px;}
+
+.button-container
+{padding: 5px;}
+
+#ingredients
+{font-size: 40px;
+text-align: center;
+color:rgb(128, 128, 9);}
+
+.broth, .porkt, .eggst, .taret
+{font-size: 30px;}
